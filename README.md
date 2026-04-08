@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently  a post grad data science student
+Exploring the intersection of Data Analytics and Artificial Intelligence
 
 
 ## 🌐 Socials:
